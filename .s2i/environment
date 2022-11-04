@@ -1,2 +1,1 @@
-DOTNET_STARTUP_PROJECT .
-DOTNET_ASSEMBLY_NAME WebApplication2
+DOTNET_STARTUP_PROJECT=WebApplication2/WebApplication2.csproj
